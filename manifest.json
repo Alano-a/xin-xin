@@ -1,0 +1,17 @@
+{
+  "name": "昕昕的工作台",
+  "short_name": "昕昕工作台",
+  "description": "应用心理研究生专属多功能工作台",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8F0",
+  "theme_color": "#F4E8DD",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
